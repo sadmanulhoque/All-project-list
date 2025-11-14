@@ -99,6 +99,14 @@
 
 ---
 
+## ⚙️ Concepts
+| Description | Link |
+|--------------|------|
+| Solid Design Principal | [🔗 View Repo](https://github.com/masterArnob/Solid-Design-Principal) |
+| Advance Laravel Topics | [🔗 View Repo](https://github.com/masterArnob/Advanced-Laravel-Concepts) |
+
+---
+
 ## 📫 Connect with Me
 📧 **Email:** sadmnulhoque21@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/sadmanul-hoque](https://www.linkedin.com/in/sadmanul-hoque/)  
