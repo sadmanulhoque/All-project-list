@@ -111,7 +111,7 @@
 ## 📫 Connect with Me
 📧 **Email:** sadmnulhoque21@gmail.com  
 🌐 **LinkedIn:** [linkedin.com/in/sadmanul-hoque](https://www.linkedin.com/in/sadmanul-hoque/)  
-💾 **GitHub:** [github.com/masterArnob](https://github.com/masterArnob)
+💾 **GitHub:** [github.com/sadmanulhoque](https://github.com/sadmanulhoque)
 
 ---
 
