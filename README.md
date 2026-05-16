@@ -5,7 +5,9 @@
 ## 🧠 Laravel Projects
 | Project | Link |
 |----------|------|
-| 🌐 SEU IEEE Student Branch Website | [🔗 View Repo](https://github.com/masterArnob/SEU-IEEE-SB) |
+<!-- | 🌐 SEU IEEE Student Branch Website | [🔗 View Repo](https://github.com/masterArnob/SEU-IEEE-SB) | -->
+
+| Sanas Fashion | [🔗 Live](https://www.sanasfashion.com) |
 | 🤖 Laravel AI Chatbot | [🔗 View Repo](https://github.com/masterArnob/laravel-ai-chatbot) |
 | 🏪 Point of Sale (POS) | [🔗 View Repo](https://github.com/masterArnob/point-of-sale-system) |
 | 🛍️ Multi-Vendor Ecommerce Website | [🔗 View Repo](https://github.com/masterArnob/Multi-Vendor-Ecommerce-Website-Using-Laravel-12) |
